@@ -56,6 +56,16 @@ When I'm not coding, I'm likely fueling my creative side:
 </p>
 </details>
 
+<details open>
+<summary><strong>Others</strong></summary>
+<br>
+<p align="left">
+ <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+ <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+ <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+</details>
+
 ---
 
 ### 📊 GitHub Analytics
