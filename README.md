@@ -16,7 +16,7 @@ I am a **Computer Engineering student** in my final year, currently working as a
 
 - 🎓 Final year student of **Computer Engineering**.
 - 💻 Professional focus: **Web Development** & **Data Science**.
-- 🌱 Currently expanding my horizon with: **Nest.js**, **Angular**, and **Docker**.
+- 🌱 Currently expanding my horizon with: **Nest.js**, *React JS*, and **Docker**.
 - ✔️ Ask me about anything—I am always happy to help!
 
 ### 🎨 Outside of Tech
